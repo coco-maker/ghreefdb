@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>IOS篇之Shadowrocket(小火箭)使用方法</title>
+    <url>/889b6ae19959/</url>
+    <content><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>今天海绵宝宝带来的是 iPhone 手机翻墙科学上网的一款软件，叫 Shadowrocket，也叫小火箭，国外软件安全有保障，放心使用，接下来教大家使用方法！</p>
+<h3 id="缺点呢"><a href="#缺点呢" class="headerlink" title="缺点呢:"></a>缺点呢:</h3><p>没 Quantumult X 快(也是一个科学上网软件，不建议小白使用，所以这里只介绍叫 Shadowrocket)。</p>
+<h3 id="优点呢"><a href="#优点呢" class="headerlink" title="优点呢:"></a>优点呢:</h3><p>简单易上手。</p>
+<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><p>打开 iPhone 手机的 Apple store<br><img src="/img/Shadowrocket/4.png"><br><br>点箭头所指右上角<br><img src="/img/Shadowrocket/9.png"><br><br>然后下滑到最低部<br><img src="/img/Shadowrocket/127.png"><br><br>然后退出自己的账号，登录我给你的账号！<br><img src="/img/Shadowrocket/14.png"><br><br><br><br><br>ios 美区账号 Shadowrocket 获取<br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/de72feb96337/">··········点击直达··········</a><br><br><br><br>有几率会弹出来如下图所示情况，按照图片所示点击即可。先点其他选项，在点不升级<br><img src="/img/Shadowrocket/weqwe.png"><br><br>登录上去以后，我们就会发现我们的 Apple store 全部变成了英文，然后在搜索框搜索 Shadowrocket<br><img src="/img/Shadowrocket/1231.png"><br><br>出来了长这样的软件就是 Shadowrocket 了。下载他就好了。如果显示需要 3.99 美元，直接购买即可。<br><img src="/img/Shadowrocket/1232135.png"><br></p>
+<h1 id="使用软件"><a href="#使用软件" class="headerlink" title="使用软件"></a>使用软件</h1><p>我们打开软件然后点右上角加号。<br><img src="/img/Shadowrocket/e4.png"><br><br>然后我们选择类型第三个。<br><img src="/img/Shadowrocket/sadasd.png"><br><br><img src="/img/Shadowrocket/qweqwe6.png"><br><br>然后我们名称随便写一个，<br>url 写自己机场的 v2ray 订阅链接即可，比如天上云机场 v2ray 订阅链接获取方法<br><br><br><br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/c0181477b514/">··········点击查看 V2ray 链接复制方法··········</a><br><br><br><br><br>拿到链接以后直接填到 url 里面然后点右上角保存即可。<br><img src="/img/Shadowrocket/qweqwewqe20.png"><br><br>然后我们等待一会。<br><img src="/img/Shadowrocket/qweqwe5.png"><br><br>发现我们刚刚订阅的信息出来了，我们选择一个香港节点。<br>选择哪个节点，哪个节点前面就有一个小绿点。<br><img src="/img/Shadowrocket/asdasd2.png"><br><br>然后我们滑到最上面点箭头所指位置链接即可。<br><img src="/img/Shadowrocket/asdsad40.png"><br><br>点击链接的时候会弹出来如图所示的东西，我们点允许即可。<br><img src="/img/Shadowrocket/qweqwe24.png"><br><br>然后按一下指纹或者输入密码即可。<br><img src="/img/Shadowrocket/asd0.png"><br><br>然后就可以发现已经链接上了。<br>状态栏也有 vpn 标识，（iPhonex 以上机器没有，无伤大雅，这里显示链接即可）<br>我们的全局路由一定是配置哦。<br><img src="/img/Shadowrocket/asdasd7.png"><br><br>全局路由分三种，每种都有不同的作用，<br>配置：可以访问外网（可以翻墙），也可以访问国内，但是国外看到你的 ip 还是中国的 ip。速度快。<br>代理：可以访问外网（可以翻墙），也可以访问国内，但是国外看到你的 ip 是你链接节点所在位置的 ip。大大影响速度，不推荐。<br>直连：可以访问国内网络，不能访问国外网络，等于没链接。</p>
+<p>然后就翻墙成功。<br></p>
+<h1 id="链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！"><a href="#链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！" class="headerlink" title="链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！"></a>链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！<br></h1><h1 id="随后我们去检测一下有没有链接成功！"><a href="#随后我们去检测一下有没有链接成功！" class="headerlink" title="随后我们去检测一下有没有链接成功！"></a>随后我们去检测一下有没有链接成功！<br></h1><h2 id="①-访问谷歌网站"><a href="#①-访问谷歌网站" class="headerlink" title="① 访问谷歌网站"></a>① 访问谷歌网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.google.com">··········点击直达··········</a></p>
+<h2 id="②-访问油管网站"><a href="#②-访问油管网站" class="headerlink" title="② 访问油管网站"></a>② 访问油管网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.youtube.com">··········点击直达··········</a><br><br>❀<br><br>❀<br><br>❀<br><br>没了！海绵宝宝该睡觉了明天在写！</p>
+]]></content>
+      <categories>
+        <category>IOS</category>
+      </categories>
+      <tags>
+        <tag>Shadowrocket</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>IOS美区Shadowrocket账号</title>
     <url>/de72feb96337/</url>
     <content><![CDATA[<p><a style="color:#FF0040;font-weight:bold;">··下文账号为共享账号,使用完账号不退出的人导致手机锁机跟网站无关自行评估！··</a></p>
-<h1 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h1><p>找站长购买 ，一个 30-40 之间！<br><b>联系方式:发送电子邮件到<br><br><a href="mailto:&#x68;&#x6b;&#56;&#x30;&#x39;&#56;&#x38;&#x30;&#x31;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;">&#x68;&#x6b;&#56;&#x30;&#x39;&#56;&#x38;&#x30;&#x31;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;</a></b></p>
-<h1 id="共享账号"><a href="#共享账号" class="headerlink" title="共享账号"></a>共享账号</h1><p><b>账号 1</b><br><a href="mailto:&#97;&#112;&#x69;&#100;&#48;&#49;&#x32;&#x40;&#115;&#101;&#110;&#100;&#x65;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x6d;&#x6f;&#110;&#x73;&#x74;&#101;&#114;">&#97;&#112;&#x69;&#100;&#48;&#49;&#x32;&#x40;&#115;&#101;&#110;&#100;&#x65;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x6d;&#x6f;&#110;&#x73;&#x74;&#101;&#114;</a><br><b>密码</b><br>Aa1234!@2<br><b>前后无空格</b><br><b>前后无空格</b><br><b>前后无空格</b><br><b>账号 2</b><br><a href="mailto:&#97;&#112;&#x69;&#x64;&#x30;&#x31;&#x31;&#64;&#115;&#101;&#x6e;&#100;&#x65;&#x6d;&#x61;&#x69;&#x6c;&#46;&#109;&#111;&#110;&#x73;&#116;&#x65;&#x72;">&#97;&#112;&#x69;&#x64;&#x30;&#x31;&#x31;&#64;&#115;&#101;&#x6e;&#100;&#x65;&#x6d;&#x61;&#x69;&#x6c;&#46;&#109;&#111;&#110;&#x73;&#116;&#x65;&#x72;</a><br><b>密码</b><br>Aa1234!@2<br><b>前后无空格</b><br><b>前后无空格</b><br><b>前后无空格</b><br><br></p>
-<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>打开 iPhone 手机的 Apple store<br><img src="/img/Shadowrocket/4.png"><br><br>点箭头所指右上角<br><img src="/img/Shadowrocket/9.png"><br><br>然后下滑到最低部<br><img src="/img/Shadowrocket/127.png"><br><br>然后退出自己的账号，登录我给你的账号！<br><img src="/img/Shadowrocket/14.png"><br><br>共享账号密码失效，请发送邮件到<a href="mailto:&#104;&#x6b;&#56;&#48;&#57;&#x38;&#56;&#x30;&#49;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#104;&#x6b;&#56;&#48;&#57;&#x38;&#56;&#x30;&#49;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;</a>。我及时更新最新账号密码。<br>使用时候如果提示 Apple ID 安全。按照下图所示处理即可。<br><img src="/img/Shadowrocket/weqwe.png"><br><br><br></p>
+<h1 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h1><p>找站长购买 ，一个 30-40 之间！<br><b>联系方式:发送电子邮件到<br><br><a href="mailto:&#x68;&#x6b;&#x38;&#x30;&#x39;&#x38;&#56;&#x30;&#x31;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;">&#x68;&#x6b;&#x38;&#x30;&#x39;&#x38;&#56;&#x30;&#x31;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;</a></b></p>
+<h1 id="共享账号"><a href="#共享账号" class="headerlink" title="共享账号"></a>共享账号</h1><p><b>账号 1</b><br><a href="mailto:&#97;&#112;&#105;&#x64;&#x30;&#49;&#x32;&#x40;&#115;&#101;&#110;&#x64;&#x65;&#x6d;&#97;&#105;&#x6c;&#x2e;&#109;&#x6f;&#x6e;&#x73;&#x74;&#x65;&#x72;">&#97;&#112;&#105;&#x64;&#x30;&#49;&#x32;&#x40;&#115;&#101;&#110;&#x64;&#x65;&#x6d;&#97;&#105;&#x6c;&#x2e;&#109;&#x6f;&#x6e;&#x73;&#x74;&#x65;&#x72;</a><br><b>密码</b><br>Aa1234!@2<br><b>前后无空格</b><br><b>前后无空格</b><br><b>前后无空格</b><br><b>账号 2</b><br><a href="mailto:&#97;&#x70;&#x69;&#100;&#x30;&#49;&#x31;&#64;&#x73;&#101;&#x6e;&#x64;&#x65;&#109;&#x61;&#x69;&#x6c;&#46;&#x6d;&#x6f;&#110;&#115;&#116;&#x65;&#114;">&#97;&#x70;&#x69;&#100;&#x30;&#49;&#x31;&#64;&#x73;&#101;&#x6e;&#x64;&#x65;&#109;&#x61;&#x69;&#x6c;&#46;&#x6d;&#x6f;&#110;&#115;&#116;&#x65;&#114;</a><br><b>密码</b><br>Aa1234!@2<br><b>前后无空格</b><br><b>前后无空格</b><br><b>前后无空格</b><br><br></p>
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>打开 iPhone 手机的 Apple store<br><img src="/img/Shadowrocket/4.png"><br><br>点箭头所指右上角<br><img src="/img/Shadowrocket/9.png"><br><br>然后下滑到最低部<br><img src="/img/Shadowrocket/127.png"><br><br>然后退出自己的账号，登录我给你的账号！<br><img src="/img/Shadowrocket/14.png"><br><br>共享账号密码失效，请发送邮件到<a href="mailto:&#x68;&#x6b;&#x38;&#48;&#x39;&#x38;&#x38;&#48;&#49;&#x40;&#x67;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x68;&#x6b;&#x38;&#48;&#x39;&#x38;&#x38;&#48;&#49;&#x40;&#x67;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;</a>。我及时更新最新账号密码。<br>使用时候如果提示 Apple ID 安全。按照下图所示处理即可。<br><img src="/img/Shadowrocket/weqwe.png"><br><br><br></p>
 <p><b>如果显示 3.99 美元，直接购买即可！不会扣自己的钱，因为账号已经内购过，只是显示错误而已！</b><br><br>❀<br><br>❀<br><br>❀<br><br>没了！海绵宝宝该睡觉了明天在写！</p>
 ]]></content>
       <categories>
@@ -17,12 +36,49 @@
       </tags>
   </entry>
   <entry>
+    <title>win电脑之v2rayN篇</title>
+    <url>/da918b9e5d58/</url>
+    <content><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>今天海绵宝宝带来的是 win 电脑的一款翻墙软件，叫 v2rayN 国外软件安全有保障，放心使用，接下来教大家使用方法！</p>
+<h3 id="缺点呢"><a href="#缺点呢" class="headerlink" title="缺点呢:"></a>缺点呢:</h3><p>链接以后没同行电脑端 clash 快</p>
+<h3 id="优点呢"><a href="#优点呢" class="headerlink" title="优点呢:"></a>优点呢:</h3><p>简单易上手。</p>
+<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><h2 id="蓝奏云下载（可能会失效，失效发邮件-104-107-56-x30-57-x38-x38-48-x31-x40-103-x6d-97-x69-x6c-x2e-x63-x6f-109-找我更新即可）"><a href="#蓝奏云下载（可能会失效，失效发邮件-104-107-56-x30-57-x38-x38-48-x31-x40-103-x6d-97-x69-x6c-x2e-x63-x6f-109-找我更新即可）" class="headerlink" title="蓝奏云下载（可能会失效，失效发邮件&#104;&#107;&#56;&#x30;&#57;&#x38;&#x38;&#48;&#x31;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;找我更新即可）"></a>蓝奏云下载（可能会失效，失效发邮件<a href="mailto:&#104;&#107;&#56;&#x30;&#57;&#x38;&#x38;&#48;&#x31;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#104;&#107;&#56;&#x30;&#57;&#x38;&#x38;&#48;&#x31;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a>找我更新即可）</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://wws.lanzoui.com/iAYEFn5411e">··········点击下载··········</a>|密码:qqqq<br><br><strong>然后长这样，然后我们右键他，进行解压（如果没有解压软件的去百度 360 解压下载一个安装即可！）</strong><br><br><img src="/img/V2rayN/111111111111115.png"><br>然后我们双击 V2rayN.exe 打开。<br>如果不能打开 提示无法使用 x64 或者 x86，那么你这台电脑可能不能安装翻墙软件。换台配置新一点的把，xin7 也行，只要不是 x32 就好，至于怎么看 x32.x64.x86，我们找到我的电脑—&gt;右键—<br>–&gt;属性—-&gt;找到系统类型。多少位就是 x 多少。<br><img src="/img/V2rayN/54684.png"><br>然后我们可以在电脑的右下角找到这个软件，双击打开。（如果在右下角找不到，重新试试看打开，然后到电脑右下角展开所有图标，可能被隐藏了）<br><img src="/img/V2rayN/a45sd65.png"><br>点击订阅，选择订阅设置。<br><img src="/img/V2rayN/s4f5we.png"><br>点添加。<br><img src="/img/V2rayN/as54d6w5q.png"><br>名称随便写一个；链接我们写 v2ray 订阅链接即可。不知道 v2ray 订阅链接怎么拿的参考<br>这里拿<a href="https://www.tianshangyun.tk">天上云机场</a>来做演示，<br><br><br><br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/c0181477b514/">··········点击查看 V2ray 链接复制方法··········</a><br><br><br><br>完事了点确定就好了<br><img src="/img/V2rayN/as5f4.png"><br>我们在次点击软件订阅，选更新订阅。<br><img src="/img/V2rayN/sf54e5.png"><br>等待一会，我们订阅成功的话，中间会显示节点信息。<br>软件下面会显示日志，也有显示订阅成功的字样。<br><img src="/img/V2rayN/sa6dw5.png"><br>我们需要链接一个节点的话，就左键选中该节点，然后右键，点击设为活动服务器。<br><img src="/img/V2rayN/asf5e.png"><br>我们选中并设置为活动服务器以后，软件下面日志也会如图一样出来一点东西。<br><img src="/img/V2rayN/sad5w4.png"><br>在计算机右下角找到软件—&gt;右键—&gt;选 http 代理—-&gt;选开启 PAC（也就是第三个）<br><img src="/img/V2rayN/sr6543r.png"><br><br>❀<br>如何查软件有没有开启 vpn<br>如图我们在右下角找到软件看是这个样子的就是没启动<br><img src="/img/V2rayN/as5d15.png"><br>如图我们在右下角找到软件看是这个样子的就是启动<br><img src="/img/V2rayN/6dw5f4.png"></p>
+<h1 id="链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！"><a href="#链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！" class="headerlink" title="链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！"></a>链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！<br></h1><h1 id="随后我们去检测一下有没有链接成功！"><a href="#随后我们去检测一下有没有链接成功！" class="headerlink" title="随后我们去检测一下有没有链接成功！"></a>随后我们去检测一下有没有链接成功！<br></h1><h2 id="①-访问谷歌网站"><a href="#①-访问谷歌网站" class="headerlink" title="① 访问谷歌网站"></a>① 访问谷歌网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.google.com">··········点击直达··········</a></p>
+<h2 id="②-访问油管网站"><a href="#②-访问油管网站" class="headerlink" title="② 访问油管网站"></a>② 访问油管网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.youtube.com">··········点击直达··········</a><br><br>❀<br><br>❀<br><br>❀<br><br>没了！海绵宝宝该睡觉了明天在写！</p>
+]]></content>
+      <categories>
+        <category>电脑</category>
+      </categories>
+      <tags>
+        <tag>V2rayN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>安卓篇之v2rayNG使用方法</title>
+    <url>/173d2fc41430/</url>
+    <content><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>今天海绵宝宝带来的是安卓手机翻墙科学上网的一款软件，叫 v2ray，国外软件安全有保障，放心使用，接下来教大家使用方法！<br></p>
+<h3 id="缺点呢"><a href="#缺点呢" class="headerlink" title="缺点呢:"></a>缺点呢:</h3><p>延迟有点高，没同行 clash 好用。</p>
+<h3 id="优点呢"><a href="#优点呢" class="headerlink" title="优点呢:"></a>优点呢:</h3><p>耗电小。</p>
+<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><h2 id="①-蓝奏云下载（可能会失效）"><a href="#①-蓝奏云下载（可能会失效）" class="headerlink" title="① 蓝奏云下载（可能会失效）"></a>① 蓝奏云下载（可能会失效）</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://wws.lanzoui.com/iSabcl0fwqj">··········点击下载··········</a>|密码:e2f4</p>
+<h2 id="②-谷歌商店下载-需要翻墙下载-稳定，但是需要手机有谷歌框架"><a href="#②-谷歌商店下载-需要翻墙下载-稳定，但是需要手机有谷歌框架" class="headerlink" title="② 谷歌商店下载(需要翻墙下载)(稳定，但是需要手机有谷歌框架)"></a>② 谷歌商店下载(需要翻墙下载)(稳定，但是需要手机有谷歌框架)</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.v2ray.ang">··········点击下载··········</a><br><br><strong>①/② 任选一个下载安装即可</strong><br><strong>然后长这样</strong><br><img src="/img/asdasdsd.png"><br></p>
+<h1 id="订阅设置"><a href="#订阅设置" class="headerlink" title="订阅设置"></a>订阅设置</h1><p>打开软件点箭头所指的左上角<br><br><img src="/img/4.png"><br><br>点箭头所指的订阅设置<br><br><img src="/img/1.png"><br><br>来到订阅设置点击箭头所指的右上角<br><br><img src="/img/216.png"><br><br>按照图中数字顺序<br>1 随便填一个名字，<br>2 填写你所在机场的 v2ray 订阅链接<br>这里拿<a href="https://www.tianshangyun.tk">天上云机场</a>来做演示，<br><br><br><br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/c0181477b514/">··········点击查看 V2ray 链接复制方法··········</a><br><br><br><br><br>写好之后，点击右上角的对号保存订阅即可！<br><br><img src="/img/38.png"><br><br>然后就可以发现订阅好了，如下图所示一样。<br><img src="/img/1445.png"><br><br>返回软件的首页,点击箭头所指位置。<br><img src="/img/72837.png"><br><br>点更新订阅。<br><img src="/img/920.png"><br><br>然后就会发现下面有正在更新订阅的字样。<br><img src="/img/28172958.png"><br><br>等待一会，就可以发现订阅成功了，如下图所示一样！<br><img src="/img/q0.png"><br><br>我们选中一个线路（这里选的是香港线路！）<br><img src="/img/2e06.png"><br><br>然后点击右下角箭头所指的按钮。<br><img src="/img/2300.png"><br><br>点同意。<br><img src="/img/qwe3258.png"><br><br>然后就翻墙成功。<br></p>
+<h1 id="链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！"><a href="#链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！" class="headerlink" title="链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！"></a>链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！<br></h1><h1 id="成功的标识有以下几点"><a href="#成功的标识有以下几点" class="headerlink" title="成功的标识有以下几点"></a>成功的标识有以下几点<br></h1><p>① 手机状态栏出现一把钥匙（个别手机不同可能没有，无伤大雅。）<br><br>② 软件页面下面提示已链接，点击测试链接。<br><br><img src="/img/qwewqe73345.png"><br></p>
+<h1 id="随后我们去检测一下有没有链接成功！"><a href="#随后我们去检测一下有没有链接成功！" class="headerlink" title="随后我们去检测一下有没有链接成功！"></a>随后我们去检测一下有没有链接成功！<br></h1><h2 id="①-访问谷歌网站"><a href="#①-访问谷歌网站" class="headerlink" title="① 访问谷歌网站"></a>① 访问谷歌网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.google.com">··········点击直达··········</a></p>
+<h2 id="②-访问油管网站"><a href="#②-访问油管网站" class="headerlink" title="② 访问油管网站"></a>② 访问油管网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.youtube.com">··········点击直达··········</a><br><br>❀<br><br>❀<br><br>❀<br><br>没了！海绵宝宝该睡觉了明天在写！</p>
+]]></content>
+      <categories>
+        <category>安卓</category>
+      </categories>
+      <tags>
+        <tag>V2rayNG</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>安卓篇之Clash使用方法</title>
     <url>/f91727d0b32f/</url>
     <content><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>今天海绵宝宝带来的是安卓手机翻墙科学上网的一款软件，叫 clash，国外软件安全有保障，放心使用，接下来教大家使用方法！</p>
 <h3 id="缺点呢"><a href="#缺点呢" class="headerlink" title="缺点呢:"></a>缺点呢:</h3><p>耗电高。</p>
 <h3 id="优点呢"><a href="#优点呢" class="headerlink" title="优点呢:"></a>优点呢:</h3><p>延迟低，玩爆 v2ray。</p>
-<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><h2 id="①-蓝奏云下载（可能会失效）"><a href="#①-蓝奏云下载（可能会失效）" class="headerlink" title="① 蓝奏云下载（可能会失效）"></a>① 蓝奏云下载（可能会失效）</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://wws.lanzous.com/iWMIZl0fwad">··········点击下载··········</a>|密码:60y2</p>
+<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><h2 id="①-蓝奏云下载（可能会失效）"><a href="#①-蓝奏云下载（可能会失效）" class="headerlink" title="① 蓝奏云下载（可能会失效）"></a>① 蓝奏云下载（可能会失效）</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://wws.lanzoui.com/iWMIZl0fwad">··········点击下载··········</a>|密码:60y2</p>
 <h2 id="②-谷歌商店下载-需要翻墙下载-稳定，但是需要手机有谷歌框架"><a href="#②-谷歌商店下载-需要翻墙下载-稳定，但是需要手机有谷歌框架" class="headerlink" title="② 谷歌商店下载(需要翻墙下载)(稳定，但是需要手机有谷歌框架)"></a>② 谷歌商店下载(需要翻墙下载)(稳定，但是需要手机有谷歌框架)</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh&gl=US">··········点击下载··········</a><br><br><strong>①/② 任选一个下载安装即可</strong><br><strong>然后长这样</strong><br><img src="/img/clash/30.png"><br></p>
 <h1 id="订阅设置"><a href="#订阅设置" class="headerlink" title="订阅设置"></a>订阅设置</h1><p>打开软件点箭头所指的位置—–配置<br><br><img src="/img/clash/2.png"><br><br>点新配置来添加一个订阅<br><br><img src="/img/clash/24.png"><br><br>点从 URL 中导入来添加一个订阅<br><br><img src="/img/clash/31110.png"><br><br>如下图所示：<br><br>名称随便写一个<br>url 写自己机场中的 clash 订阅链接，这里拿<a href="https://www.tianshangyun.tk">天上云机场</a>来做演示，<br><br><br><br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/c0181477b514/">··········点击查看 clash 链接复制方法··········</a><br><br><br><br><br>自动更新时间建议设置 24 小时更新一次，也就是写 1440(分钟)，或者不设置，那么每次更新都会通知，在去手动更新一下就好了<br>搞好以后跟下图一样就行，然后点右上角保存订阅<br>然后等他订阅成功，应该要转圈转一会就好啦。<br><img src="/img/clash/10712.png"><br><br>选中我们刚刚用订阅链接订阅的那个配置<br><img src="/img/clash/54848.png"><br><br>返回主页面，点击箭头所示启动<br><img src="/img/clash/12347.png"><br><br>然后点代理规则模式<br><img src="/img/clash/123123132.png"><br><br>我们点 proxy，然后在 proxy 里面选一个节点，这里我选的是香港，然后其他默认，不用动。<br><img src="/img/clash/www7.png"><br><br>返回主页，点启动。<br><img src="/img/clash/1232aa3.png"><br></p>
 <p>然后就翻墙成功。<br></p>
@@ -34,6 +90,17 @@
       </categories>
       <tags>
         <tag>Clash</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>海绵宝宝出生了</title>
+    <url>/251443068fb1/</url>
+    <content><![CDATA[<h2 id="喔-朋友别急他还没准备好-——来自章鱼哥"><a href="#喔-朋友别急他还没准备好-——来自章鱼哥" class="headerlink" title="喔!朋友别急他还没准备好!      ——来自章鱼哥"></a>喔!朋友别急他还没准备好!      ——来自章鱼哥</h2>]]></content>
+      <categories>
+        <category>海绵宝宝</category>
+      </categories>
+      <tags>
+        <tag>出生</tag>
       </tags>
   </entry>
   <entry>
@@ -56,42 +123,6 @@
       </tags>
   </entry>
   <entry>
-    <title>IOS篇之Shadowrocket(小火箭)使用方法</title>
-    <url>/889b6ae19959/</url>
-    <content><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>今天海绵宝宝带来的是 iPhone 手机翻墙科学上网的一款软件，叫 Shadowrocket，也叫小火箭，国外软件安全有保障，放心使用，接下来教大家使用方法！</p>
-<h3 id="缺点呢"><a href="#缺点呢" class="headerlink" title="缺点呢:"></a>缺点呢:</h3><p>没 Quantumult X 快(也是一个科学上网软件，不建议小白使用，所以这里只介绍叫 Shadowrocket)。</p>
-<h3 id="优点呢"><a href="#优点呢" class="headerlink" title="优点呢:"></a>优点呢:</h3><p>简单易上手。</p>
-<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><p>打开 iPhone 手机的 Apple store<br><img src="/img/Shadowrocket/4.png"><br><br>点箭头所指右上角<br><img src="/img/Shadowrocket/9.png"><br><br>然后下滑到最低部<br><img src="/img/Shadowrocket/127.png"><br><br>然后退出自己的账号，登录我给你的账号！<br><img src="/img/Shadowrocket/14.png"><br><br><br><br><br>ios 美区账号 Shadowrocket 获取<br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/de72feb96337/">··········点击直达··········</a><br><br><br><br>有几率会弹出来如下图所示情况，按照图片所示点击即可。先点其他选项，在点不升级<br><img src="/img/Shadowrocket/weqwe.png"><br><br>登录上去以后，我们就会发现我们的 Apple store 全部变成了英文，然后在搜索框搜索 Shadowrocket<br><img src="/img/Shadowrocket/1231.png"><br><br>出来了长这样的软件就是 Shadowrocket 了。下载他就好了。如果显示需要 3.99 美元，直接购买即可。<br><img src="/img/Shadowrocket/1232135.png"><br></p>
-<h1 id="使用软件"><a href="#使用软件" class="headerlink" title="使用软件"></a>使用软件</h1><p>我们打开软件然后点右上角加号。<br><img src="/img/Shadowrocket/e4.png"><br><br>然后我们选择类型第三个。<br><img src="/img/Shadowrocket/sadasd.png"><br><br><img src="/img/Shadowrocket/qweqwe6.png"><br><br>然后我们名称随便写一个，<br>url 写自己机场的 v2ray 订阅链接即可，比如天上云机场 v2ray 订阅链接获取方法<br><br><br><br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/c0181477b514/">··········点击查看 V2ray 链接复制方法··········</a><br><br><br><br><br>拿到链接以后直接填到 url 里面然后点右上角保存即可。<br><img src="/img/Shadowrocket/qweqwewqe20.png"><br><br>然后我们等待一会。<br><img src="/img/Shadowrocket/qweqwe5.png"><br><br>发现我们刚刚订阅的信息出来了，我们选择一个香港节点。<br>选择哪个节点，哪个节点前面就有一个小绿点。<br><img src="/img/Shadowrocket/asdasd2.png"><br><br>然后我们滑到最上面点箭头所指位置链接即可。<br><img src="/img/Shadowrocket/asdsad40.png"><br><br>点击链接的时候会弹出来如图所示的东西，我们点允许即可。<br><img src="/img/Shadowrocket/qweqwe24.png"><br><br>然后按一下指纹或者输入密码即可。<br><img src="/img/Shadowrocket/asd0.png"><br><br>然后就可以发现已经链接上了。<br>状态栏也有 vpn 标识，（iPhonex 以上机器没有，无伤大雅，这里显示链接即可）<br>我们的全局路由一定是配置哦。<br><img src="/img/Shadowrocket/asdasd7.png"><br><br>全局路由分三种，每种都有不同的作用，<br>配置：可以访问外网（可以翻墙），也可以访问国内，但是国外看到你的 ip 还是中国的 ip。速度快。<br>代理：可以访问外网（可以翻墙），也可以访问国内，但是国外看到你的 ip 是你链接节点所在位置的 ip。大大影响速度，不推荐。<br>直连：可以访问国内网络，不能访问国外网络，等于没链接。</p>
-<p>然后就翻墙成功。<br></p>
-<h1 id="链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！"><a href="#链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！" class="headerlink" title="链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！"></a>链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！<br></h1><h1 id="随后我们去检测一下有没有链接成功！"><a href="#随后我们去检测一下有没有链接成功！" class="headerlink" title="随后我们去检测一下有没有链接成功！"></a>随后我们去检测一下有没有链接成功！<br></h1><h2 id="①-访问谷歌网站"><a href="#①-访问谷歌网站" class="headerlink" title="① 访问谷歌网站"></a>① 访问谷歌网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.google.com">··········点击直达··········</a></p>
-<h2 id="②-访问油管网站"><a href="#②-访问油管网站" class="headerlink" title="② 访问油管网站"></a>② 访问油管网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.youtube.com">··········点击直达··········</a><br><br>❀<br><br>❀<br><br>❀<br><br>没了！海绵宝宝该睡觉了明天在写！</p>
-]]></content>
-      <categories>
-        <category>IOS</category>
-      </categories>
-      <tags>
-        <tag>Shadowrocket</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>win电脑之v2rayN篇</title>
-    <url>/da918b9e5d58/</url>
-    <content><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>今天海绵宝宝带来的是 win 电脑的一款翻墙软件，叫 v2rayN 国外软件安全有保障，放心使用，接下来教大家使用方法！</p>
-<h3 id="缺点呢"><a href="#缺点呢" class="headerlink" title="缺点呢:"></a>缺点呢:</h3><p>链接以后没同行电脑端 clash 快</p>
-<h3 id="优点呢"><a href="#优点呢" class="headerlink" title="优点呢:"></a>优点呢:</h3><p>简单易上手。</p>
-<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><h2 id="蓝奏云下载（可能会失效，失效发邮件-x68-x6b-x38-x30-x39-x38-x38-48-x31-x40-x67-109-x61-x69-108-46-x63-x6f-109-找我更新即可）"><a href="#蓝奏云下载（可能会失效，失效发邮件-x68-x6b-x38-x30-x39-x38-x38-48-x31-x40-x67-109-x61-x69-108-46-x63-x6f-109-找我更新即可）" class="headerlink" title="蓝奏云下载（可能会失效，失效发邮件&#x68;&#x6b;&#x38;&#x30;&#x39;&#x38;&#x38;&#48;&#x31;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#109;找我更新即可）"></a>蓝奏云下载（可能会失效，失效发邮件<a href="mailto:&#x68;&#x6b;&#x38;&#x30;&#x39;&#x38;&#x38;&#48;&#x31;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#109;">&#x68;&#x6b;&#x38;&#x30;&#x39;&#x38;&#x38;&#48;&#x31;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#109;</a>找我更新即可）</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://wws.lanzous.com/iAYEFn5411e">··········点击下载··········</a>|密码:qqqq<br><br><strong>然后长这样，然后我们右键他，进行解压（如果没有解压软件的去百度 360 解压下载一个安装即可！）</strong><br><br><img src="/img/V2rayN/111111111111115.png"><br>然后我们双击 V2rayN.exe 打开。<br>如果不能打开 提示无法使用 x64 或者 x86，那么你这台电脑可能不能安装翻墙软件。换台配置新一点的把，xin7 也行，只要不是 x32 就好，至于怎么看 x32.x64.x86，我们找到我的电脑—&gt;右键—<br>–&gt;属性—-&gt;找到系统类型。多少位就是 x 多少。<br><img src="/img/V2rayN/54684.png"><br>然后我们可以在电脑的右下角找到这个软件，双击打开。（如果在右下角找不到，重新试试看打开，然后到电脑右下角展开所有图标，可能被隐藏了）<br><img src="/img/V2rayN/a45sd65.png"><br>点击订阅，选择订阅设置。<br><img src="/img/V2rayN/s4f5we.png"><br>点添加。<br><img src="/img/V2rayN/as54d6w5q.png"><br>名称随便写一个；链接我们写 v2ray 订阅链接即可。不知道 v2ray 订阅链接怎么拿的参考<br>这里拿<a href="https://www.tianshangyun.tk">天上云机场</a>来做演示，<br><br><br><br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/c0181477b514/">··········点击查看 V2ray 链接复制方法··········</a><br><br><br><br>完事了点确定就好了<br><img src="/img/V2rayN/as5f4.png"><br>我们在次点击软件订阅，选更新订阅。<br><img src="/img/V2rayN/sf54e5.png"><br>等待一会，我们订阅成功的话，中间会显示节点信息。<br>软件下面会显示日志，也有显示订阅成功的字样。<br><img src="/img/V2rayN/sa6dw5.png"><br>我们需要链接一个节点的话，就左键选中该节点，然后右键，点击设为活动服务器。<br><img src="/img/V2rayN/asf5e.png"><br>我们选中并设置为活动服务器以后，软件下面日志也会如图一样出来一点东西。<br><img src="/img/V2rayN/sad5w4.png"><br>在计算机右下角找到软件—&gt;右键—&gt;选 http 代理—-&gt;选开启 PAC（也就是第三个）<br><img src="/img/V2rayN/sr6543r.png"><br><br>❀<br>如何查软件有没有开启 vpn<br>如图我们在右下角找到软件看是这个样子的就是没启动<br><img src="/img/V2rayN/as5d15.png"><br>如图我们在右下角找到软件看是这个样子的就是启动<br><img src="/img/V2rayN/6dw5f4.png"></p>
-<h1 id="链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！"><a href="#链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！" class="headerlink" title="链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！"></a>链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！<br></h1><h1 id="随后我们去检测一下有没有链接成功！"><a href="#随后我们去检测一下有没有链接成功！" class="headerlink" title="随后我们去检测一下有没有链接成功！"></a>随后我们去检测一下有没有链接成功！<br></h1><h2 id="①-访问谷歌网站"><a href="#①-访问谷歌网站" class="headerlink" title="① 访问谷歌网站"></a>① 访问谷歌网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.google.com">··········点击直达··········</a></p>
-<h2 id="②-访问油管网站"><a href="#②-访问油管网站" class="headerlink" title="② 访问油管网站"></a>② 访问油管网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.youtube.com">··········点击直达··········</a><br><br>❀<br><br>❀<br><br>❀<br><br>没了！海绵宝宝该睡觉了明天在写！</p>
-]]></content>
-      <categories>
-        <category>电脑</category>
-      </categories>
-      <tags>
-        <tag>V2rayN</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>获取订阅链接-v2ray-Clash</title>
     <url>/c0181477b514/</url>
     <content><![CDATA[<h1 id="本文中订阅链接获取方式均为天上云机场获取方法。"><a href="#本文中订阅链接获取方式均为天上云机场获取方法。" class="headerlink" title="本文中订阅链接获取方式均为天上云机场获取方法。"></a>本文中订阅链接获取方式均为天上云机场获取方法。</h1><h2 id="前提是你购买了vpn，否则复制了也不能用"><a href="#前提是你购买了vpn，否则复制了也不能用" class="headerlink" title="前提是你购买了vpn，否则复制了也不能用"></a>前提是你购买了vpn，否则复制了也不能用</h2><h2 id="v2ray订阅链接获取方法"><a href="#v2ray订阅链接获取方法" class="headerlink" title="v2ray订阅链接获取方法"></a>v2ray订阅链接获取方法</h2><p>我们打开机场官网。<br><a style="color:#FF0040;font-weight:bold;" href="https://www.tianshangyun.tk">··········点击直达··········</a><br>我们找到导航栏，点首页<br><img src="/img/dingyue/qweqw0.png"><br><br>然后滑到最下面,点复制v2ray订阅链接<br><img src="/img/dingyue/asdasd549.png"><br></p>
@@ -105,37 +136,6 @@
       <tags>
         <tag>Clash</tag>
         <tag>v2ray</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>安卓篇之v2rayNG使用方法</title>
-    <url>/173d2fc41430/</url>
-    <content><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>今天海绵宝宝带来的是安卓手机翻墙科学上网的一款软件，叫 v2ray，国外软件安全有保障，放心使用，接下来教大家使用方法！<br></p>
-<h3 id="缺点呢"><a href="#缺点呢" class="headerlink" title="缺点呢:"></a>缺点呢:</h3><p>延迟有点高，没同行 clash 好用。</p>
-<h3 id="优点呢"><a href="#优点呢" class="headerlink" title="优点呢:"></a>优点呢:</h3><p>耗电小。</p>
-<h1 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h1><h2 id="①-蓝奏云下载（可能会失效）"><a href="#①-蓝奏云下载（可能会失效）" class="headerlink" title="① 蓝奏云下载（可能会失效）"></a>① 蓝奏云下载（可能会失效）</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://wws.lanzous.com/iSabcl0fwqj">··········点击下载··········</a>|密码:e2f4</p>
-<h2 id="②-谷歌商店下载-需要翻墙下载-稳定，但是需要手机有谷歌框架"><a href="#②-谷歌商店下载-需要翻墙下载-稳定，但是需要手机有谷歌框架" class="headerlink" title="② 谷歌商店下载(需要翻墙下载)(稳定，但是需要手机有谷歌框架)"></a>② 谷歌商店下载(需要翻墙下载)(稳定，但是需要手机有谷歌框架)</h2><p><a style="color:#FF0040;font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.v2ray.ang">··········点击下载··········</a><br><br><strong>①/② 任选一个下载安装即可</strong><br><strong>然后长这样</strong><br><img src="/img/asdasdsd.png"><br></p>
-<h1 id="订阅设置"><a href="#订阅设置" class="headerlink" title="订阅设置"></a>订阅设置</h1><p>打开软件点箭头所指的左上角<br><br><img src="/img/4.png"><br><br>点箭头所指的订阅设置<br><br><img src="/img/1.png"><br><br>来到订阅设置点击箭头所指的右上角<br><br><img src="/img/216.png"><br><br>按照图中数字顺序<br>1 随便填一个名字，<br>2 填写你所在机场的 v2ray 订阅链接<br>这里拿<a href="https://www.tianshangyun.tk">天上云机场</a>来做演示，<br><br><br><br><a style="color:#FF0040;font-weight:bold;" href="https://qqqq.tech/c0181477b514/">··········点击查看 V2ray 链接复制方法··········</a><br><br><br><br><br>写好之后，点击右上角的对号保存订阅即可！<br><br><img src="/img/38.png"><br><br>然后就可以发现订阅好了，如下图所示一样。<br><img src="/img/1445.png"><br><br>返回软件的首页,点击箭头所指位置。<br><img src="/img/72837.png"><br><br>点更新订阅。<br><img src="/img/920.png"><br><br>然后就会发现下面有正在更新订阅的字样。<br><img src="/img/28172958.png"><br><br>等待一会，就可以发现订阅成功了，如下图所示一样！<br><img src="/img/q0.png"><br><br>我们选中一个线路（这里选的是香港线路！）<br><img src="/img/2e06.png"><br><br>然后点击右下角箭头所指的按钮。<br><img src="/img/2300.png"><br><br>点同意。<br><img src="/img/qwe3258.png"><br><br>然后就翻墙成功。<br></p>
-<h1 id="链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！"><a href="#链接成功了！撒花-✿✿-ヽ-°▽°-ノ-✿！" class="headerlink" title="链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！"></a>链接成功了！撒花 ✿✿ ヽ(°▽°)ノ ✿！<br></h1><h1 id="成功的标识有以下几点"><a href="#成功的标识有以下几点" class="headerlink" title="成功的标识有以下几点"></a>成功的标识有以下几点<br></h1><p>① 手机状态栏出现一把钥匙（个别手机不同可能没有，无伤大雅。）<br><br>② 软件页面下面提示已链接，点击测试链接。<br><br><img src="/img/qwewqe73345.png"><br></p>
-<h1 id="随后我们去检测一下有没有链接成功！"><a href="#随后我们去检测一下有没有链接成功！" class="headerlink" title="随后我们去检测一下有没有链接成功！"></a>随后我们去检测一下有没有链接成功！<br></h1><h2 id="①-访问谷歌网站"><a href="#①-访问谷歌网站" class="headerlink" title="① 访问谷歌网站"></a>① 访问谷歌网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.google.com">··········点击直达··········</a></p>
-<h2 id="②-访问油管网站"><a href="#②-访问油管网站" class="headerlink" title="② 访问油管网站"></a>② 访问油管网站<br></h2><p><a style="color:#FF0040;font-weight:bold;" href="https://www.youtube.com">··········点击直达··········</a><br><br>❀<br><br>❀<br><br>❀<br><br>没了！海绵宝宝该睡觉了明天在写！</p>
-]]></content>
-      <categories>
-        <category>安卓</category>
-      </categories>
-      <tags>
-        <tag>V2rayNG</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>海绵宝宝出生了</title>
-    <url>/251443068fb1/</url>
-    <content><![CDATA[<h2 id="喔-朋友别急他还没准备好-——来自章鱼哥"><a href="#喔-朋友别急他还没准备好-——来自章鱼哥" class="headerlink" title="喔!朋友别急他还没准备好!      ——来自章鱼哥"></a>喔!朋友别急他还没准备好!      ——来自章鱼哥</h2>]]></content>
-      <categories>
-        <category>海绵宝宝</category>
-      </categories>
-      <tags>
-        <tag>出生</tag>
       </tags>
   </entry>
 </search>
